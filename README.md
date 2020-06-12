@@ -1,0 +1,1 @@
+# pandoc-latex-report-template
