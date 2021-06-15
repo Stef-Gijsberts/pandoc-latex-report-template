@@ -10,4 +10,4 @@ watch:
 clean:
 	rm -f $(TARGET)
 
-.PHONY: clean
+.PHONY: clean watch
