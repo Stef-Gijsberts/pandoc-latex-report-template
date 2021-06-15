@@ -10,17 +10,18 @@ author:
 lang: en
 
 # The latex document class to use. Try changing the class to 'book'!
-documentclass: article 
+documentclass: article
 
 # The font to use ('fourier' looks nice both on screen and on paper)
 fontfamily: fourier
 
 # Whether or not to generate a Table Of Contents
-toc: true 
+toc: true
 
-numbersections: true 
+numbersections: true
 
-geometry: margin=3.5cm 
+fontsize: 11pt
+geometry: margin=3.5cm
 
 csl: apa.csl
 bibliography: references.bib
