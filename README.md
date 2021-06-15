@@ -1,4 +1,4 @@
-# pandoc-latex-report-template
+# Simple PDF generation based on MarkDown
 
 ## Requirements
 
